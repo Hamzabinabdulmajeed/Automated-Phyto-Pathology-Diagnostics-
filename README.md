@@ -1,6 +1,6 @@
 # Automated Phyto-Pathology Diagnostics
 
-## 🚀 Live Demonstration
+##  Live Demonstration
 Experience the model in action: 
 **[Phyto-Pathology Diagnostic Tool on Hugging Face Spaces](https://huggingface.co/spaces/hamzabinabdulmajeed/Plant-Disease-Diagnostic)**
 
